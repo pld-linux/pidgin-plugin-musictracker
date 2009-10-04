@@ -3,7 +3,7 @@ Summary:	A plugin for Pidgin which displays the media currently playing in the s
 Summary(hu.UTF-8):	Egy plugin Pidginhez, amely az aktuálisan játszott dalt jeleníti meg az állapotüzenetben
 Name:		pidgin-plugin-musictracker
 Version:	0.4.20
-Release:	0.1
+Release:	1
 License:	GPL v2
 Group:		Applications/Communications
 Source0:	http://pidgin-musictracker.googlecode.com/files/pidgin-musictracker-%{version}.tar.bz2
@@ -26,7 +26,7 @@ Currently supported players on Linux:
 - Exaile
 - Last.fm feed
 - Listen
-- MOC
+- MOC >= 2.5.0alpha
 - MPD
 - Quod Libet
 - Rhythmbox
@@ -51,7 +51,7 @@ Támogatott linuxos lejátszók:
 - Exaile
 - Last.fm feed
 - Listen
-- MOC
+- MOC >= 2.5.0alpha
 - MPD
 - Quod Libet
 - Rhythmbox
