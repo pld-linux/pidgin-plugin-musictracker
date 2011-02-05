@@ -2,12 +2,12 @@
 Summary:	A plugin for Pidgin which displays the media currently playing in the status message
 Summary(hu.UTF-8):	Egy plugin Pidginhez, amely az aktuálisan játszott dalt jeleníti meg az állapotüzenetben
 Name:		pidgin-plugin-musictracker
-Version:	0.4.21
+Version:	0.4.22
 Release:	2
 License:	GPL v2
 Group:		Applications/Communications
 Source0:	http://pidgin-musictracker.googlecode.com/files/pidgin-musictracker-%{version}.tar.bz2
-# Source0-md5:	38910d634b590e47f7766929c436f1a7
+# Source0-md5:	8d7225c705484db86b864cab5a536423
 URL:		http://code.google.com/p/pidgin-musictracker/
 BuildRequires:	gettext-devel
 BuildRequires:	pidgin-devel >= 2.2
