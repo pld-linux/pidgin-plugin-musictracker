@@ -4,7 +4,7 @@ Summary(hu.UTF-8):	Egy plugin Pidginhez, amely az aktuálisan játszott dalt jel
 Summary(pl.UTF-8):	Wtyczka do Pidgina wyświetlająca w stanie aktualnie odtwarzany utwór
 Name:		pidgin-plugin-musictracker
 Version:	0.4.22
-Release:	3
+Release:	4
 License:	GPL v2
 Group:		Applications/Communications
 Source0:	http://pidgin-musictracker.googlecode.com/files/pidgin-musictracker-%{version}.tar.bz2
