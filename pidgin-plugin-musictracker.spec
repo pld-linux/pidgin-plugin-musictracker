@@ -10,7 +10,7 @@ Group:		Applications/Communications
 Source0:	http://pidgin-musictracker.googlecode.com/files/pidgin-musictracker-%{version}.tar.bz2
 # Source0-md5:	8d7225c705484db86b864cab5a536423
 URL:		http://code.google.com/p/pidgin-musictracker/
-BuildRequires:	gettext-devel
+BuildRequires:	gettext-tools
 BuildRequires:	pidgin-devel >= 2.2
 BuildRequires:	pkgconfig
 Requires:	pidgin >= %{pidgin_ver}
